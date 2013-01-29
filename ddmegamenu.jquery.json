@@ -1,0 +1,25 @@
+{
+  "name": "ddmegamenu",
+  "title": "DD Mega Menu",
+  "description": "DD Mega Menu is the ideal menu script to use when you need a drop down menu system that supports arbitrary sub menu layouts, such as multiple columns of links or even arbitrary HTML. Each drop down menu is simply defined inline on the page as a regular DIV, making it extremely easy to customize its contents whichever way you like. And unlike most other mega menus, this one supports nested levels.",
+  "keywords": ["mega", "menu", "tabs", "ui", "dropdown", "navigation"],
+  "version": "1.1.0",
+  "author": {
+    "name": "Dynamic Drive",
+    "email" : "ddrivehelp@gmail.com",
+		"url": "http://www.dynamicdrive.com"
+  },
+  "licenses": [
+    {
+      "type": "Freeware",
+      "url": "http://www.dynamicdrive.com/notice.htm"
+    }
+  ],
+  "dependencies": {
+    "jquery": ">=1.5"
+  },
+  "homepage": "http://www.dynamicdrive.com/dynamicindex1/ddmegamenu.htm",
+  "docs": "http://www.dynamicdrive.com/dynamicindex1/ddmegamenu.htm",
+  "demo": "http://www.dynamicdrive.com/dynamicindex1/ddmegamenu.htm",
+  "download": "http://www.dynamicdrive.com/dynamicindex1/ddmegamenu.htm"
+}
